@@ -12,7 +12,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 🌱 Highly enthusiastic about learning new technologies and programming languages to stay up-to-date with the latest advancements.  <br> 
 🚀 Passionate about problem-solving, system design and thoroughly enjoying tackling challenges and creating efficient solutions.  <br> 
 🤗Check out my GitHub profile for coding insights and projects. Contact me for inquiries or collaborations.  <br> 
-
+📫 How to reach me: pqviet97@gmail.com;
 <br> 
 
 Favorite
