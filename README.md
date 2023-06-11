@@ -14,8 +14,8 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 🤗Check out my GitHub profile for coding insights and projects. Contact me for inquiries or collaborations.  <br> 
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pqviet07&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pqviet07&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pqviet07&theme=solarized)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pqviet07&theme=solarized&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pqviet07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pqviet07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pqviet07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pqviet07&theme=default&utcOffset=8)
