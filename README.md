@@ -13,61 +13,61 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 🚀 Passionate about problem-solving, system design and thoroughly enjoying tackling challenges and creating efficient solutions.  <br> 
 🤗Check out my GitHub profile for coding insights and projects. Contact me for inquiries or collaborations.  <br> 
 
+<br> 
+
+Favorite
 ---
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/CPP.svg" width="48" height="48" alt="CPP" />
       </a>
-      <br>Go
+      <br>CPP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/DotNet.svg" width="48" height="48" alt="Dotnet" />
       </a>
-      <br>Python
+      <br>.NETCore
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/Java-Dark.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/Selenium.svg" width="48" height="48" alt="Selenium" />
       </a>
-      <br>Kubernetes
+      <br>Selenium
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS" />
       </a>
-      <br>Docker
+      <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="./img/PostgreSQL-Dark.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Debian
+      <br>PostgreSQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/Rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Grafana
+      <br>Rust
     </td>
   </tr>
 </table>
 
+<br> 
+
+Stats
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pqviet07&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=default)
