@@ -6,8 +6,7 @@
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
-✨ Graduated from University of Science (HCMUS), Vietnam in 2021.
-
+✨ Graduated from University of Science (HCMUS), Vietnam in 2021. <br> 
 💼 Currently employed as a software engineer at a top tech company in Vietnam.  <br> 
 🔭 Primarily working with C++ and Java to fulfill the company's requirements, while also utilizing C#, Node.js in various pet projects.  <br> 
 🌱 Highly enthusiastic about learning new technologies and programming languages to stay up-to-date with the latest advancements.  <br> 
