@@ -69,8 +69,8 @@ Favorite
 
 Stats
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pqviet07&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pqviet07&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pqviet07&theme=default&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pqviet07&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pqviet07&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pqviet07&theme=nightowl)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pqviet07&theme=nightowl&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pqviet07&theme=nightowl)
