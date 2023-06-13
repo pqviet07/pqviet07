@@ -1,4 +1,4 @@
-### Hi there, I'm Phung Quoc Viet - an algorithm addictor 👋 
+### Hi there, I'm Phung Quoc Viet 👋 
 
 ``while (i.state != dead) i++
 ``
