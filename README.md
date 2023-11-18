@@ -56,12 +56,6 @@ Favorite
       </a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/Rust.svg" width="48" height="48" alt="Rust" />
-      </a>
-      <br>Rust
-    </td>
   </tr>
 </table>
 
