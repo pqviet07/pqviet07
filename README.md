@@ -5,13 +5,17 @@
 <br> <br> 
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a bit more about me:<br>
-<br>
-✨ I graduated from the University of Science (HCMUS), Vietnam, in 2021.<br>
-💼 I am currently employed as a software engineer at a top tech company in Vietnam.<br>
-🔭 My primary work involves using C++ and Java to complete company tasks, while I also explore C#, Node.js in my pet projects.<br>
-🌱 I am highly enthusiastic about learning new technologies and programming languages to stay up-to-date.<br>
-🚀 I have a strong passion for problem-solving, system design, and creating efficient solutions.<br>
-🤗 Check out my GitHub profile for insights into my coding projects and experiences. Feel free to contact me for inquiries or collaboration opportunities.<br>
+
+✨ Graduated from University of Science (HCMUS), Vietnam, in 2021.<br>
+💼 Currently employed as a software engineer (C++) at a top tech company in Vietnam.<br>
+🛠️ Proficiency level in C++<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Tackling multithreading, socket programming, I/O issues without third-party libraries.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Possess the ability to implement core components like thread pools, task queues, and event loops from scratch.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Specialize in resolving complex problems like race conditions and deadlocks.<br>
+🌱 Highly enthusiastic about learning new technologies and programming languages to stay up-to-date.<br>
+🚀 Passionate about problem-solving, system design, and creating efficient solutions.<br>
+🤗 Check out my GitHub profile for insights into my coding projects and experiences. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to contact me for inquiries or collaboration opportunities.<br>
 📫 How to reach me: pqviet97@gmail.com<br>
 <br> 
 
