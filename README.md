@@ -7,11 +7,17 @@
 I have a strong passion for technology and enjoy exploring new tools. Here's a bit more about me:
 
 ✨ I graduated from the University of Science (HCMUS), Vietnam, in 2021.
+
 💼 I am currently employed as a software engineer at a top tech company in Vietnam.
+
 🔭 My primary work involves using C++ and Java to complete company tasks, while I also explore C#, Node.js in my pet projects.
+
 🌱 I am highly enthusiastic about learning new technologies and programming languages to stay up-to-date.
+
 🚀 I have a strong passion for problem-solving, system design, and creating efficient solutions.
+
 🤗 Check out my GitHub profile for insights into my coding projects and experiences. Feel free to contact me for inquiries or collaboration opportunities.
+
 📫 How to reach me: pqviet97@gmail.com
 <br> 
 
