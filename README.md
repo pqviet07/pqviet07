@@ -14,9 +14,6 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a b
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Specialize in resolving complex problems like race conditions and deadlocks.<br>
 🌱 Highly enthusiastic about learning new technologies and programming languages to stay up-to-date.<br>
 🚀 Passionate about problem-solving, system design, and creating efficient solutions.<br>
-🤗 Check out my GitHub profile for insights into my coding projects and experiences. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feel free to contact me for inquiries or collaboration opportunities.<br>
-📫 How to reach me: pqviet97@gmail.com<br>
 <br> 
 
 Favorite 
