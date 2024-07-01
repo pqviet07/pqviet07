@@ -8,9 +8,9 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a b
 
 ✨ Graduated from University of Science (HCMUS), Vietnam, in 2021.<br>
 💼 Currently employed as a software engineer (C++ and Java) at a top tech company in Vietnam.<br>
-🛠️ Proficiency level in C++<br>
+🛠️ Highly passionate about solving challenging problems in programming:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Tackling multithreading, socket programming, I/O issues.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Specialize in resolving complex problems like race conditions and deadlocks.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Specializing in resolving complex issues such as race conditions and deadlocks.<br>
 🌱 Highly enthusiastic about learning new technologies and programming languages to stay up-to-date.<br>
 🚀 Passionate about problem-solving, system design, and creating efficient solutions.<br>
 <br> 
