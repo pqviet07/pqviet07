@@ -42,13 +42,13 @@ Favorite
       <a href="#macropower-tech">
         <img src="./img/GoLang.svg" width="48" height="48" alt="Go" />
       </a>
-      <br>Java
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/Rust.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Java
+      <br>Rust
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
