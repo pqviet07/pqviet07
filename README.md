@@ -39,6 +39,18 @@ Favorite
       <br>Java
     </td>
     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/GoLang.svg" width="48" height="48" alt="Go" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/Rust.svg" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="./img/Selenium.svg" width="48" height="48" alt="Selenium" />
       </a>
