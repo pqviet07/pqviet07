@@ -1,3 +1,8 @@
+
+![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
+<br>
+
+
 ### Hi there, I'm Phung Quoc Viet 👋 
 
 ``while (i.state != dead) i++
@@ -72,9 +77,6 @@ Favorite
 </table>
 
 <br> 
-
-![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
-<br>
 
 
 Stats
