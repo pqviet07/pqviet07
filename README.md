@@ -1,5 +1,6 @@
 ### Hi there, I'm Phung Quoc Viet 👋 
-
+![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
+<br>
 ``while (i.state != dead) i++
 ``
 <br> <br> 
