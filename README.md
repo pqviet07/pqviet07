@@ -1,6 +1,5 @@
 ### Hi there, I'm Phung Quoc Viet 👋 
-![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
-<br>
+
 ``while (i.state != dead) i++
 ``
 <br> <br> 
@@ -73,7 +72,8 @@ Favorite
 </table>
 
 <br> 
-
+![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
+<br>
 Stats
 ---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pqviet07&theme=gotham)
