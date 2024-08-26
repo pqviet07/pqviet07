@@ -1,14 +1,11 @@
 
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-![](https://komarev.com/ghpvc/?username=pqviet07&color=blue)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pqviet07&label=Profile%20views&color=0e75b6&style=flat" alt="pqviet07" /> </p>
 <br>
+<h1 align="center">Hi there, I'm Phung Quoc Viet 👋 </h1>
+<p align="center"> <code> while (i.state != dead) i++</code> </p>
 
-
-### Hi there, I'm Phung Quoc Viet 👋 
-
-``while (i.state != dead) i++
-``
-<br> <br> 
+<br> 
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a bit more about me:<br>
 
